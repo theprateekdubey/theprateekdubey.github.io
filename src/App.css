@@ -1,0 +1,28 @@
+.header-new .nav a {
+  text-decoration: none;
+  cursor: pointer;
+}
+.header-new .nav a:hover {
+  color: rgb(0, 145, 255);
+}
+.footer-new .nav {
+  display: block;
+}
+.footer-new .nav a {
+  text-decoration: none;
+  cursor: pointer;
+}
+.footer-new .nav a:hover {
+  color: rgb(0, 145, 255);
+}
+.text-cloud {
+  color: #00b0ff;
+}
+.readmore {
+  background-color: #00b0ff !important;
+  border-color: #00b0ff !important;
+}
+.readmore:hover {
+  background-color: #0d6efd !important;
+  border-color: #0d6efd !important;
+}
