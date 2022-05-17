@@ -25,10 +25,7 @@ export default class About extends Component {
                     <li>
                       <i className="fa fa-check"></i> Cloud Deployment
                     </li>
-                    <li>
-                      <i className="fa fa-check"></i> Continous
-                      Integration/Deployment
-                    </li>
+
                     <li>
                       <i className="fa fa-check"></i> Infrastructure As A Code
                     </li>
@@ -37,6 +34,10 @@ export default class About extends Component {
                     </li>
                     <li>
                       <i className="fa fa-check"></i> Site Reliability Engineer
+                    </li>
+                    <li>
+                      <i className="fa fa-check"></i> Continous
+                      Integration/Deployment
                     </li>
                   </ul>
                 </div>
