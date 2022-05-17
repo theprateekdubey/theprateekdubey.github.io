@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-scroll";
+import SiderDrawerPhone from "../SiderDrawerPhone";
 
 export default class Header extends Component {
   render() {
@@ -14,20 +15,9 @@ export default class Header extends Component {
                   src="assets/images/VitueCloud_Logo.png"
                   alt=""
                 />
-
-                <a
-                  className="d-md-none small-menu"
-                  data-bs-toggle="collapse"
-                  href="#collapseExample"
-                  role="button"
-                  aria-expanded="false"
-                  aria-controls="collapseExample"
-                >
-                  <i className="fas d-lg-none  fa-bars"></i>
-                </a>
               </div>
               <div id="collapseExample" className="col-md-9  nav">
-                <ul>
+                <ul className="ul-list">
                   <li>
                     <Link
                       activeclassname="active"
@@ -60,6 +50,7 @@ export default class Header extends Component {
                   </li>
                 </ul>
               </div>
+              <SiderDrawerPhone />
             </div>
           </div>
         </header>

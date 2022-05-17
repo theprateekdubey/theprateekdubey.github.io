@@ -26,3 +26,68 @@
   background-color: #0d6efd !important;
   border-color: #0d6efd !important;
 }
+.ant-drawer-right.ant-drawer-open .ant-drawer-content-wrapper {
+  margin: 70px 0 0 0 !important;
+}
+/*********************************/
+@media (min-width: 1501px) {
+  .trigger-phone {
+    display: none !important;
+  }
+}
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+  .trigger-phone {
+    display: none !important;
+  }
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .trigger-phone {
+    display: none !important;
+  }
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .trigger-phone {
+    display: none !important;
+  }
+}
+/* small mobile :320px. */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #about {
+    margin-top: 399px;
+  }
+  .trigger-phone {
+    font-size: 21px;
+    float: right !important;
+    margin: -40px 30px 0 0 !important;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+    color: #014d87 !important;
+  }
+  .trigger-phone:hover {
+    color: #0060aa !important;
+  }
+}
+/* Large Mobile :480px. */
+@media only screen and (max-width: 575.98px) {
+  #about {
+    margin-top: 399px;
+  }
+  .trigger-phone {
+    font-size: 21px;
+    float: right !important;
+    margin: -40px 30px 0 0 !important;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+    color: #014d87 !important;
+  }
+  .trigger-phone:hover {
+    color: #0060aa !important;
+  }
+}
