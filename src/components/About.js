@@ -20,22 +20,23 @@ export default class About extends Component {
                 <div className="about-featur">
                   <ul>
                     <li>
-                      <i className="fa fa-check"></i> Boost SEO Sharing
+                      <i className="fa fa-check"></i> Kubernetes Deployment
                     </li>
                     <li>
-                      <i className="fa fa-check"></i> Social Sharing
+                      <i className="fa fa-check"></i> Cloud Deployment
                     </li>
                     <li>
-                      <i className="fa fa-check"></i> Marketing
+                      <i className="fa fa-check"></i> Continous
+                      Integration/Deployment
                     </li>
                     <li>
-                      <i className="fa fa-check"></i> Retention
+                      <i className="fa fa-check"></i> Infrastructure As A Code
                     </li>
                     <li>
-                      <i className="fa fa-check"></i> Visual Review
+                      <i className="fa fa-check"></i> Training
                     </li>
                     <li>
-                      <i className="fa fa-check"></i> Review Generation
+                      <i className="fa fa-check"></i> Site Reliability Engineer
                     </li>
                   </ul>
                 </div>

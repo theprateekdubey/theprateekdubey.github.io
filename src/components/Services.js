@@ -16,7 +16,7 @@ export default class Services extends Component {
           <div className="row mt-5 feature-row">
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/s1.png" alt="" />
+                <img src="assets/images/services/docker.png" alt="" />
                 <h4>Kubernetes Deployment</h4>
                 <p>
                   Deploy on any cloud/on-prem with Kubernetes & docker. Use our
@@ -27,7 +27,7 @@ export default class Services extends Component {
             </div>
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/s2.png" alt="" />
+                <img src="assets/images/services/aws_gcp_azure.jpg" alt="" />
                 <h4>Cloud Deployment</h4>
                 <p>
                   Deploy to any cloud on AWS,GCP,Azure,Digital Ocean etc with
@@ -39,7 +39,7 @@ export default class Services extends Component {
 
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/s3.png" alt="" />
+                <img src="assets/images/services/delivery.png" alt="" />
                 <h4>Continous Integration/Deployment</h4>
                 <p>
                   Pick your own tool or select from few of tools we use Jenkins,
@@ -50,7 +50,7 @@ export default class Services extends Component {
 
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/s4.png" alt="" />
+                <img src="assets/images/services/IaaC.png" alt="" />
                 <h4>Infrastructure As A Code</h4>
                 <p>
                   Deploy on any cloud/on-prem with Kubernetes & docker. Use our
@@ -62,7 +62,7 @@ export default class Services extends Component {
 
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/s5.png" alt="" />
+                <img src="assets/images/services/cloudtraining1.gif" alt="" />
                 <h4>Training</h4>
                 <p>
                   We provide cloud training tools and help you set up networks
@@ -72,7 +72,7 @@ export default class Services extends Component {
 
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/s6.png" alt="" />
+                <img src="assets/images/services/download.png" alt="" />
                 <h4>Site Reliability Engineer</h4>
                 <p>
                   Have multiple enviornments which require constant changes,
