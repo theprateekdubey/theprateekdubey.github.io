@@ -39,7 +39,7 @@ export default class Services extends Component {
 
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/delivery.png" alt="" />
+                <img src="assets/images/services/CDN_new.jpg" alt="" />
                 <h4>Continous Integration/Deployment</h4>
                 <p>
                   Pick your own tool or select from few of tools we use Jenkins,
@@ -50,7 +50,7 @@ export default class Services extends Component {
 
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/IaaC.png" alt="" />
+                <img src="assets/images/services/new-iac.png" alt="" />
                 <h4>Infrastructure As A Code</h4>
                 <p>
                   Deploy on any cloud/on-prem with Kubernetes & docker. Use our
@@ -62,7 +62,7 @@ export default class Services extends Component {
 
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/cloudtraining1.gif" alt="" />
+                <img src="assets/images/services/rewire.png" alt="" />
                 <h4>Training</h4>
                 <p>
                   We provide cloud training tools and help you set up networks
@@ -72,7 +72,7 @@ export default class Services extends Component {
 
             <div className="col-md-4">
               <div className="feature-col">
-                <img src="assets/images/services/download.png" alt="" />
+                <img src="assets/images/services/sre-new.png" alt="" />
                 <h4>Site Reliability Engineer</h4>
                 <p>
                   Have multiple enviornments which require constant changes,

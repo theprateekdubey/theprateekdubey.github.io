@@ -9,7 +9,7 @@ export default class Footer extends Component {
           <div className="container">
             <div className="row">
               <div className="col-md-5 about">
-                <h2>About Us</h2>
+                <h2 className="text-white">About Us</h2>
                 <p>
                   We have a team of DevOps which are proficient in different
                   tools & services which are aligned to meet your business goals
