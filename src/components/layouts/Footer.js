@@ -11,9 +11,10 @@ export default class Footer extends Component {
               <div className="col-md-5 about">
                 <h2 className="text-white">About Us</h2>
                 <p>
-                  We have a team of DevOps which are proficient in different
-                  tools & services which are aligned to meet your business goals
-                  quickly & cost effective.
+                  We at Virtue cloud are working with our clients to help them
+                  use the full potential of cloud and be worry free and get rid
+                  of all the manuals process which they have to follow for the
+                  deployment of the applications and infra.
                 </p>
 
                 <div className="foot-address">

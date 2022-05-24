@@ -29,6 +29,9 @@
 .ant-drawer-right.ant-drawer-open .ant-drawer-content-wrapper {
   margin: 70px 0 0 0 !important;
 }
+.about-service-new {
+  margin-left: 125px;
+}
 /*********************************/
 @media (min-width: 1501px) {
   .trigger-phone {
@@ -72,6 +75,9 @@
   .trigger-phone:hover {
     color: #0060aa !important;
   }
+  .about-service-new {
+    margin-left: 0px;
+  }
 }
 /* Large Mobile :480px. */
 @media only screen and (max-width: 575.98px) {
@@ -89,5 +95,8 @@
   }
   .trigger-phone:hover {
     color: #0060aa !important;
+  }
+  .about-service-new {
+    margin-left: 0px;
   }
 }
